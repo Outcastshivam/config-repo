@@ -1,4 +1,4 @@
-retry-count: 3
+retry-count: 5
   
 feature:
   flags:
