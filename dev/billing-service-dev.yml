@@ -1,6 +1,0 @@
-billing:
-  retry-count: 3
-
-feature:
-  flags:
-    invoice-v2: true
