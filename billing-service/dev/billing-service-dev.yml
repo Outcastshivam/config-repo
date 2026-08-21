@@ -1,5 +1,4 @@
-billing:
-  retry-count: 3
+retry-count: 3
 
 feature:
   flags:
