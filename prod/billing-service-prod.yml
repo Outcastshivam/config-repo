@@ -1,1 +1,2 @@
-retry-count: 4
+billing:
+  retry-count: 4
